@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-22T16:10:08 IST" name="Default suite" finished-at="2020-05-22T16:11:13 IST" duration-ms="64880">
+    <groups>
+    </groups>
+    <test started-at="2020-05-22T16:10:08 IST" name="Default test" finished-at="2020-05-22T16:11:13 IST" duration-ms="64880">
+      <class name="applicationTests.MobilePriceTest">
+        <test-method is-config="true" signature="IPhonePriceVerify()[pri:0, instance:applicationTests.MobilePriceTest@6ce139a4]" started-at="2020-05-22T16:10:08 IST" name="IPhonePriceVerify" finished-at="2020-05-22T16:11:13 IST" duration-ms="64206" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IPhonePriceVerify -->
+        <test-method signature="comparePrice()[pri:0, instance:applicationTests.MobilePriceTest@6ce139a4]" started-at="2020-05-22T16:11:13 IST" name="comparePrice" finished-at="2020-05-22T16:11:13 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comparePrice -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:applicationTests.MobilePriceTest@6ce139a4]" started-at="2020-05-22T16:11:13 IST" name="closeBrowser" finished-at="2020-05-22T16:11:13 IST" duration-ms="613" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- applicationTests.MobilePriceTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
