@@ -5,4 +5,4 @@ Note: IPhone Yellow is not appearing in Amazon search result thus i have use IPh
 
 Stack used: Selenium webdriver using Java, Maven, TestNG
 
-To run this: Either via testng.xml file directly or run pom.xml. Both will work
+To run this: Either via testng.xml file directly or run pom.xml(mvn test). Both will work
